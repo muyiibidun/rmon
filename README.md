@@ -13,7 +13,7 @@ sudo apt-get install python-pip
 sudo pip install setuptools
 sudo pip install psutil
 sudo apt-get install mpack sendmail
-git clone  https://git.cs.umu.se/muyi/rmon.git
+git clone  https://github.com/muyiibidun/rmon.git
 ~~~~
 
 ## Usage
